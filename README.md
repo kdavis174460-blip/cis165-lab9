@@ -39,6 +39,6 @@ Restored it back to its original values, even though the test table also records
 **How does your code keep -99 out of the calculations?**
 The code keeps -99 out of the calculation by using value!=-99 in the while loop. 
 **Why is initializing both extrema to zero incorrect for some series?**
-Intializing both extrema to zero can be incorrect for some series when it was not even entered in the first place. If it incorrectly says at 0, it will not report the other numbers in the series. 
+Initializing both extrema to zero can be incorrect for some series when it was not even entered in the first place. If it incorrectly stays at 0, it will not report the other numbers in the series. 
 **How do you distinguish an empty series from a series containing zero?**
 To distinguish an empty series from a series containing zero by declaring bool data = false at first. Using a true false statement when 0 is in the series or not helps us tell.  
