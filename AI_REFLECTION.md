@@ -1,6 +1,6 @@
 1.) Tools used: Identify any AI tools you used and what you used them for, or state that you did not use AI.
 
-I did use Replit to help make clear some of the steps to creating this program, such as ending the series when the user inputs -99. Writing the program to figure out the largest and smallest along with displaying the output was straightforward due to the other labs we have done. 
+I did use Replit to help make clear some steps to creating this program, such as ending the series when the user inputs -99. Writing the program to figure out the largest and smallest data values along with displaying the output was straightforward due to the other labs we have done. 
 
 2.) One decision: Describe one suggestion, correction, or design decision and explain what you accepted, changed, or rejected.
 
